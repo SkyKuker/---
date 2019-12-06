@@ -11,6 +11,7 @@ Dalal & Deen feat. Ana Rucner and Jala - Ljubav Je (12.11.2019)
 
 Не виконано:
 Black M - Sur ma route (0.0.0000)
+Soprano - Ils nous connaissent pas (0.0.0000)
 Та ін. (0.0.0000)
 
 У розгляді:
