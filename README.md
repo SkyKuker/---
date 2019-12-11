@@ -6,16 +6,16 @@ BTS - Boy in Luv (3.10.2019)
 KONTRAFAKT - JBMNT prod. MAIKY BEATZ (12.11.2019)
 
 У розробці:
-Dalal & Deen feat. Ana Rucner and Jala - Ljubav Je (12.11.2019)
+Soprano - Ils nous connaissent pas (12.12.2019)
 (Якщо субтитри мають хоча б один (порожній) рядок, то ставлю в "У розробці".)
 
 Не виконано:
 Black M - Sur ma route (0.0.0000)
-Soprano - Ils nous connaissent pas (0.0.0000)
 Та ін. (0.0.0000)
 
 У розгляді:
 Voltaj - De la capat (0.0.0000) (Зачепила душу.)
+Dalal & Deen feat. Ana Rucner and Jala - Ljubav Je (12.11.2019) (Розробку призупинено; Глючить відео.)
 
 Не в планах:
 Всі англо-, російсько-, польсько-, та україномовні пісні, проте іншомовні пісні,
