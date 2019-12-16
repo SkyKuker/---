@@ -4,10 +4,10 @@
 Maître Gims - Est-ce que tu m'aimes (8.10.2019)
 BTS - Boy in Luv (3.10.2019)
 KONTRAFAKT - JBMNT prod. MAIKY BEATZ (12.11.2019)
+Soprano - Ils nous connaissent pas (16.12.2019)
 
 ### У розробці:
 ~~Dalal & Deen feat. Ana Rucner and Jala - Ljubav Je~~ (12.11.2019) (Розробку призупинено; Глючить відео.)
-Soprano - Ils nous connaissent pas (12.12.2019)
 (Якщо субтитри мають хоча б один (порожній) рядок, то ставлю в "У розробці".)
 
 ### Не виконано:
