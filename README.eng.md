@@ -1,8 +1,8 @@
 # Attention!
-1. Some subtitles contain foreign words and irrelevant punktuation marks, cuz I ~~`am mentally retarded`~~  ~~`don't support nature saving idea`~~  ~~`fell in love with Olena Zelenska`~~  ~~`planting & unifying bread with Mr. Lukashenko`~~  ~~`raped Yanukovych`~~ ~~`kissed with Zelenskyi`~~ ~~`did ♂Fisting♂ to Putin`~~ ~~`♂Do anal♂ to Yaremenko`~~ ~~`♂Spanking♂ Yermak`~~ ~~`disbanded Ministry of Education `~~`(but I'd like to)` didn't find any harmonic words in songs. You can help me by suggesting any correction ideas in "Issues" or by correcting manually & clicking on "Pull Request".
+1. Some subtitles contain foreign words and irrelevant punktuation marks, cuz I ~~`am mentally retarded`~~  ~~`don't support nature saving idea`~~  ~~`fell in love with Olena Zelenska`~~  ~~`am planting & unifying bread with Mr. Lukashenko`~~  ~~`raped Yanukovych`~~ ~~`kissed with Zelenskyi`~~ ~~`did ♂Fisting♂ to Putin`~~ ~~`♂Do anal♂ to Yaremenko`~~ ~~`did ♂Spanking♂ Yermak`~~ ~~`disbanded Ministry of Education `~~`(but I'd like to)` didn't find any harmonic words in songs. You can help me by suggesting any correction ideas in "Issues" or by correcting manually & clicking on "Pull Request".
 1. Subtitles are inherent part of Ukrainian "Misheard" beta project (I guess it's a whole project...)
 I, encourager of `d`is project, made it as a fork of Russian "Misheard" project.
-This project is dead by now. By 4 year already.
+This project is dead as of now. By 4 year already.
 1. Repository management controls - President.
 1. Constitution is approved by 14 January, 2020 (It's english version is approved by 29 April, 2020).
 
@@ -14,78 +14,77 @@ If you selected "Issues" tab way - add the "Enhancement" label or "Good first is
 For correction of existing songs pls add "Bug" or "Invalid" labels.
 If you selected manual addition - write subtitles & click "Pull Request";
 I'll review both ways as fast as I can.
-If you think that something is wrong, e.g. I added a song in prohibited language, or words' in prohibited language to original language ratio exceeds 1 (1:>1; or >50%), then you can ~~appeal~~ ~~complain~~ report a problem on ...tab... Well, you know it by yourself. And labels: "Bug", "Invalid", and\or "Question".
+If you think that something is wrong, e.g. I added a song in prohibited language, or words' in prohibited language to original words language ratio exceeds 2 (1:>2; or >66,66%), then you can ~~appeal~~ ~~complain~~ report a problem on ...tab... Well, you know it by yourself. And labels: "Bug", "Invalid", and\or "Question".
 ### Constitution & progress
-Для способу з "Проблемами" - додайте мітки "Покращення", "Баґ" або "Неправильне" та "Документація".
+For "Issues" way - add "Enhancement", "Bug" or "Invalid" and "Documentation".
 
-Для ручної зміни - раджу відгалузити файл до свого профілю та змінити (стосується всіх текстових файлів).
-
+For manual editing - I advise you to fork file to your profile & edit (affects all text files).
 ## FAQ:
 
-Q: Коли твій проект побачив світ та які мотиви створення оного?
-A: Як ви можете побачити, остання зміна однієї з пісень сягає корінням аж у початок жовтня 2019-го. Себто, найпершу зміну (створення найперших субтитрів) я зробив у вересні 2019-го. Хоча ідея народилася ще влітку 2019-го.
-Найперший та найголовніший мотив - це смерть російського [проекту "Послышалось"](https://www.youtube.com/user/MisheardsReloaded), проте я маю інші мотиви також і не можу пояснити всі.
+Q: When was your project born and what are reasons for making it?
+A: As you can see, last change of one of songs was made right up to 2019 October. That is, first change (creation of first subtitles) I made in 2019 September. But idea was born on summer of 2019. First and foremost reason is a death of Russian ["Misheard" ("Poslyshalos") project](https://www.youtube.com/user/MisheardsReloaded), but I have another reasons and can't explain all of them.
 
-Q: Чи повністю незалежний твій проект?
-A: Ні. Я використовую пісні із проекту "Послышалось" (окрім нових), і мені, для незалежності проекту, треба відтранслювати усі пісні з оного (крім заборонених). Така своєрідна автономія у складі "Послышалось".
+Q: Is your project fully independent?Чи повністю незалежний твій проект?
+A: No. I use songs from "Poslyshalos" project (except new), and I, to make project independent, need to redirect (translate) all songs from it (except forbidden). It's like some kind of autonomy as a part of "Poslyshalos"
 
-Q: Чи закриєш ти проєкт "Почулось"?
-A: ~~Я б і сам рад, але він мене тримає. **Допоможіте хТо-НеБуДь!!!11!11111!!!1**~~ Ні. Проєкт "Почулось" ніколи не можна закрити. Іншомовні пісні продовжитимуть з'являтись навіть після ~~завершення терміну правління Зеленського~~ моєї смерті.
+Q: Will you close the "Misheard" project?Чи закриєш ти проєкт "Почулось"?
+A: ~~I would like to, but it holds me down. **Somebody hElP mE!!!11!11111!!!1**~~ No. "Misheard" project can't be closed. Foreign songs will keep appearing (WUT?) even after ~~end of Zelenskyi's Presidentship term~~ my death.
 
-Q: Ми хочемо розмістити рекламний блок у твоїх субтитрах. Пропонуємо тобі 15000₴ щомісяця.
-A: Мій проект, тому і субтитри - офіційно некомерційні (і я не шпигую на користь пропрієтарщини). ГЛПП заперечує будь-які умови розміщення реклами та отримання грошей сторонніми особами. Ґітгаб люто покарає всякого за будь-яку можливість заробити на проєктах з відкритим сирцевим кодом та\або громадськими ліцензіями (ГЛҐ (GNU), ГЛПП, МІТ тощо).
+Q: We want to place ~~sum addzzzz~~ an advertisement block in your subtitles. We advise you 1000$ monthly.
+A: My project, hence subtitles are officially non-commercial (and I don't spy for proprietarity). PPPL bans all terms of placing ads & receiving money by third parties. Github will furiously punish all for any opportunity to earn money on every project with open source code and\or public licences (GNU, PPPL, MIT etc).
 
-Q: Чому ти не додаси англо-, російсько-, польсько-, та україномовні пісні до проєкту?
-A: ~~Я хочу, але невідома містична сила тримає мене!!!111!!11~~ Ні! На жаль, не можу, бо це буде знущанням над цими мовами та з приводу історії не можу.
+Q: Why won't you add English, Russian, Polish, & Ukrainian language songs to the project?
+A: ~~I want, but some unknown mystic power holds me!!!111!!11~~ No! Unfortunately, I can't, cuz it'll be jeering on `deez` languages and because of history.
 
-Q: З приводу яких подій ти не додаси ці пісні?
-A: ~~Правителі країн, що використовують ці мови, цькуватимуть мене, тому й не можу.~~ Я ж сказав, історичних!
+Q: What events won't let you add `deez` songs?
+A: ~~Governors of countries, which use these languages will bully me, that's why.~~ I said, historical!
 
-Q: Ну яких?
-A: Пане\і користувач, припиніть питати! Історикознавці та\або місцеві (дійсно місцеві, а не "Понаєхалє") знають, під ким був Київ під час цих подій. Так, я орієнтуюсь на Київ, тому що це місце народження проекту (ні, не думки. Думка могла народитись де завгодно.). Але якщо ви не знаєте, то я вам розкажу хронологічно "яких":
-* 1363-1596 - Київ відійшов до Литовського князівства;
-* 1596 р. - [Люблінська Унія](https://uk.wikipedia.org/wiki/Люблінська_Унія) (об'єднання сучасних Литви та Польщі у Річ Посполиту);
-* 1596-1667 - Київ під Річчю Посполитою;
-* 1667 р. - Київ опинився під владою Московії за [Андрусівським перемир'ям](https://uk.wikipedia.org/wiki/Андрусівське_Перемир'я);
-* 1667-1917 - Володарювання Російської Імперії;
-* 1917-1920 - Перша Незалежність України (тоді УНР);
-* 1920-1941 - Київ страждає під СРСРом;
-* 1941-1943 - Під Нацистською Німеччиною;
-* 1943-1991 - Знов страждання під СРСРом;
-* 1991-∞ - Незалежність України.
+Q: But which?
+A: Mr.\Mrs.\Ms.User, stop asking! Historical experts and\or locals (really locals, not immigrants) know, under whose power was Kyiv during these events. Yes, I focus on Kyiv, cuz it's the birth place of the project (no, not of an idea. Idea could be born anywhere.). But if you don't know, I'll tell you chronologically "which":
+* 1363 - Kyiv is now under Grand Duchy of Lithuania;
+* 1363-1596 - Grand Duchy of Lithuania governs Kyiv;
+* 1596 р. - [Union of Lublin](https://en.wikipedia.org/wiki/Union_of_Lublin) (union of modern Lithuania and Poland into the Polish–Lithuanian Commonwealth);
+* 1596-1667 - Kyiv is under Polish–Lithuanian Commonwealth;
+* 1667 р. - Kyiv came under power of Muscovy by [Truce_of_Andrusovo](https://en.wikipedia.org/wiki/Truce_of_Andrusovo);
+* 1667-1917 - Russian Empire's Government;
+* 1917-1920 - First Independence of Ukraine (was PRU);
+* 1920-1941 - Kyiv suffers under USSR;
+* 1941-1943 - Under Nazi Germany;
+* 1943-1991 - Suffers again under USSR;
+* 1991-∞ - Independence of Ukraine.
 
-А щодо англійської... Ну, так її всі (хто хоче і може) розуміють.
+But English... Well, all (who wants and can) understand it.
 
-Q: Я все розумію, але чому ти не забороняєш литовські та німецькі пісні? Ти сам сказав, що Київ був під Литвою та Німеччиною!
-A: Тому що я не знаю литовську та погано знаю німецьку.
+Q: I understand, but why won't you ban Lithuanian & German songs? You said that Kyiv was under Lithuania & Germany!
+A: Cuz I don't know Lithuanian & badly know German.
 
-Q: Так це все через особисте ставлення до цих мов?
-A: Ні, во ім'я Бога! Повірте мені, ніяка людина в світі не знає жодної мови досконало. Так само і з піснями тими мовами, які я не додаю до проєкту. До речі, чи ви знаєте яку-небудь литовську пісню, крім гімну Литви? Або яку-небудь німецьку, крім пісень Рамштайну та гімну Німеччини?
-Якщо не знаєте, - то про що йде мова?
+Q: But is it all because of personal attitude to languages?
+A: No, for the God's sake! Believe me, no human in the world could know any language very good. It's the same about those languages, which I don't add to the project. By the way, do you know any Lithuanian song, except anthem of Lithuania? Or some German song, except any Rammstein song and anthem of Germany?
+If you don't - what are we talking about?
 
-Q: Соб0ко те надзоналісдеджна, пркпени зниашчетисе над мовоми!!!111!!!11111!!11!!!!!!!!1!11
-A: $ім'якористувача, припиніть негайно та йдіть до школи, бо вам ще рано сидіти в Інтернеті в такому віці!
+Q: Yu nashshshshonalists p1g, stuuup bulen dizzszsszzs l0nguajez!!!111!!!11111!!11!!!!!!!!1!11
+A: $username, stop immediately and go to school, 'cause it's too early for you to sit on the net for this age!
 
-Q: Эй ты, сверни свой проект немедленно, иначе я тебя по судам затаскаю за нарушение авторских прав!
+Q: Hey you, close your project immediately, or you will be sued by big amount of judges for copyright violation!
 
-A: Сиєндуче (якщо це Ви), товаришу, я не порушую Ваших авторських прав! Я пишу текст субтитрів власноруч, і моя політика відрізняється від Вашої (що ліквідує всі судові позови щодо авторських прав проти мене). Наприклад, я не додаю англо-, російсько-, польсько-, та україномовних пісень до "Почулось", бо оних доволі, і з історичних причин ^. Також, я не складаю відео зі словами, що Вам почулись, а пишу субтитри. Те, що Ви робите, веде до розбіжностей (аки [тут](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) та порушує авторські права (у цей раз уже не мої й не Ваші, а авторів відео). Ви вириваєте з контексту шматки відео (ще й трохи недбало) та приписуєте їм слова, тому багато користувачів не розуміють, звідкіля Ви таке почули. Відео, мабуть, і належать комусь, проте субтитри - ні, враховуючи мою ліцензію. Так що це **Я** Вас по судах тягати буду за домагання до мене. Тим ще й паче, я ясно вказав у перших субтитрах і вгорі файла, що мій проект є **ВІДГАЛУЖЕННЯМ** (тільки субтитровим) від Вашого проекту, а не повною його копією. Я Вам навпаки, допомогти хочу, але бачу, що роблю це марно. Що ж, допомагатиму *сам собі.*
+A: Syienduk (if it's you), comrade, I don't violate your copyright! I write subtitles' text by myself, & my policy differs from yours (what eliminates all claims against me). For example, I don't add English, Russian, Polish, and Ukrainian to the "Misheard", because there are many ones, & of historical reasons ^. And, I don't compile video with words, which you misheard, but I write subtitles. What you do leads to discord (not social media) (like [here](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) and violates copyright (this time not mine & not yours, but authors' of videos). You tear out of context some video pieces (also bit carelessly) and you assign words to them, so many users don't understand, where did you hear that. Video, maybe, belongs to somebody, but subtitles don't, consider my license. This means that **I** will sue you for harassment to me. Moreover, I clearly said in first subtitles and in head of the file that my project is a **FORK** (only subtitle) from your project, not its full copy. I will help you, on the contrary, but I see that I make it of no effect. Well, I'll help *myself.*
 
-Q: Ась, ку-туль ме?
-A: Japan, сижу там!
+Q: As, que tool meh?
+A: Japan, say jeu time!
 
-Q: Що означають незрозумілі позначки типу "ШЧА", або "Вбийте мене"?
-A: Вони означають необхідність виправлення\видалення\додавання тексту.
+Q: What do these marks mean, like "WUT" or "Kill Me"?
+A: They mean necessity of correction\truncation\addition to text.
 
-Q: Ґрунтовно - це як?
-A: За формою:
- * Пісня:
- * Мова:
- * Співвідношення слів забороненою мовою до слів вихідною мовою (необов'язково):
- * Ймовірно неправильно почуті слова (необов'язково):
- * Ви впевнені у своєму повідомленні та певні, що творець та натхненник не відхилить ваш запит?: Т\н
- * Повідомлення (необов'язково):
+Q: Thoroughly - is how?
+A: By pattern:
+ * Song:
+ * Lang:
+ * Words in prohibited language to original words' language ratio (optional):
+ * Probably non-correctly heard words (optional):
+ * Are you sure in your message and are sure that creator & encourager won't deny your request?: Y\n
+ * Message (optional):
 
-Мовчазний запит - мовчазне відхилення.
+Silent request - silent deny.
 
-Q: Я все зрозумів\ла, але я ще маю питання, що не стосуються проекту. Де я можу їх ставити?
-A: Мені в приватних повідомленнях. Це сторінка проекту, а не питань.
+Q: I understood all, but I still have questions, which are not related to project. Where can I ask?
+A: Pm me. It's a project page, not question one.
