@@ -1,4 +1,5 @@
-# Attention!
+# Attention\Увага!
+Українська конституція у файлі Readme.md 
 1. Some subtitles contain foreign words and irrelevant punktuation marks, cuz I ~~`am mentally retarded`~~  ~~`don't support nature saving idea`~~  ~~`fell in love with Olena Zelenska`~~  ~~`am planting & unifying bread with Mr. Lukashenko`~~  ~~`raped Yanukovych`~~ ~~`kissed with Zelenskyi`~~ ~~`did ♂Fisting♂ to Putin`~~ ~~`♂Do anal♂ to Yaremenko`~~ ~~`did ♂Spanking♂ Yermak`~~ ~~`disbanded Ministry of Education `~~`(but I'd like to)` didn't find any harmonic words in songs. You can help me by suggesting any correction ideas in "Issues" or by correcting manually & clicking on "Pull Request".
 1. Subtitles are inherent part of Ukrainian "Misheard" beta project (I guess it's a whole project...)
 I, encourager of `d`is project, made it as a fork of Russian "Misheard" project.
