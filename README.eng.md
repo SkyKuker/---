@@ -25,10 +25,10 @@ For manual editing - I advise you to fork file to your profile & edit (affects a
 Q: When was your project born and what are reasons for making it?
 A: As you can see, last change of one of songs was made right up to 2019 October. That is, first change (creation of first subtitles) I made in 2019 September. But idea was born on summer of 2019. First and foremost reason is a death of Russian ["Misheard" ("Poslyshalos") project](https://www.youtube.com/user/MisheardsReloaded), but I have another reasons and can't explain all of them.
 
-Q: Is your project fully independent?Чи повністю незалежний твій проект?
+Q: Is your project fully independent?
 A: No. I use songs from "Poslyshalos" project (except new), and I, to make project independent, need to redirect (translate) all songs from it (except forbidden). It's like some kind of autonomy as a part of "Poslyshalos"
 
-Q: Will you close the "Misheard" project?Чи закриєш ти проєкт "Почулось"?
+Q: Will you close the "Misheard" project?
 A: ~~I would like to, but it holds me down. **Somebody hElP mE!!!11!11111!!!1**~~ No. "Misheard" project can't be closed. Foreign songs will keep appearing (WUT?) even after ~~end of Zelenskyi's Presidentship term~~ my death.
 
 Q: We want to place ~~sum addzzzz~~ an advertisement block in your subtitles. We advise you 1000$ monthly.
@@ -41,12 +41,12 @@ Q: What events won't let you add `deez` songs?
 A: ~~Governors of countries, which use these languages will bully me, that's why.~~ I said, historical!
 
 Q: But which?
-A: Mr.\Mrs.\Ms.User, stop asking! Historical experts and\or locals (really locals, not immigrants) know, under whose power was Kyiv during these events. Yes, I focus on Kyiv, cuz it's the birth place of the project (no, not of an idea. Idea could be born anywhere.). But if you don't know, I'll tell you chronologically "which":
+A: Mr.\Mrs.\Ms.User, stop asking! Historical experts and\or locals (real locals, not immigrants) know, under whose power was Kyiv during these events. Yes, I focus on Kyiv, cuz it's the birth place of the project (no, not of an idea. Idea could be born anywhere.). But if you don't know, I'll tell you chronologically "which":
 * 1363 - Kyiv is now under Grand Duchy of Lithuania;
 * 1363-1596 - Grand Duchy of Lithuania governs Kyiv;
 * 1596 р. - [Union of Lublin](https://en.wikipedia.org/wiki/Union_of_Lublin) (union of modern Lithuania and Poland into the Polish–Lithuanian Commonwealth);
 * 1596-1667 - Kyiv is under Polish–Lithuanian Commonwealth;
-* 1667 р. - Kyiv came under power of Muscovy by [Truce_of_Andrusovo](https://en.wikipedia.org/wiki/Truce_of_Andrusovo);
+* 1667 р. - Kyiv came under power of Muscovy by [Truce of Andrusovo](https://en.wikipedia.org/wiki/Truce_of_Andrusovo);
 * 1667-1917 - Russian Empire's Government;
 * 1917-1920 - First Independence of Ukraine (was PRU);
 * 1920-1941 - Kyiv suffers under USSR;
@@ -60,7 +60,7 @@ Q: I understand, but why won't you ban Lithuanian & German songs? You said that 
 A: Cuz I don't know Lithuanian & badly know German.
 
 Q: Is it all because of personal attitude to languages?
-A: No, for the God's sake! Believe me, no human in the world could know any language very good. It's the same about those languages, which I don't add to the project. By the way, do you know any Lithuanian song, except anthem of Lithuania? Or some German song, except any Rammstein song and anthem of Germany?
+A: No, for God's sake! Believe me, no human in the world could know any language very good. It's the same about those languages, which I don't add to the project. By the way, do you know any Lithuanian song, except anthem of Lithuania? Or some German song, except any Rammstein song and anthem of Germany?
 If you don't - what are we talking about?
 
 Q: Yu nashshshshonalists p1g, stuuup bulen dizzszsszzs l0nguajez!!!111!!!11111!!11!!!!!!!!1!11
@@ -68,16 +68,16 @@ A: $username, stop immediately and go to school, 'cause it's too early for you t
 
 Q: Hey you, close your project immediately, or you will be sued by big amount of judges for copyright violation!
 
-A: Syienduk (if it's you), comrade, I don't violate your copyright! I write subtitles' text by myself, & my policy differs from yours (what eliminates all claims against me). For example, I don't add English, Russian, Belarusian, Polish, and Ukrainian to the "Misheard", because there are many ones, & of historical reasons ^. And, I don't compile video with words, which you misheard, but I write subtitles. What you do leads to discord (not social media) (like [here](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) and violates copyright (this time not mine & not yours, but authors' of videos). You tear out of context some video pieces (also bit carelessly) and you assign words to them, so many users don't understand, where did you hear that. Video, maybe, belongs to somebody, but subtitles don't, consider my license. This means that **I** will sue you for harassment to me. Moreover, I clearly said in first subtitles and in head of the file that my project is a **FORK** (only subtitle) from your project, not its full copy. I will help you, on the contrary, but I see that I make it of no effect. Well, I'll help *myself.*
+A: Syienduk (if it's you), comrade, I don't violate your copyright! I write subtitles' text by myself, & my policy differs from yours (what eliminates all claims against me). For example, I don't add English, Russian, Belarusian, Polish, and Ukrainian to the "Misheard", because there are many ones, & of historical reasons ^. And, I don't compile video with words, which you misheard, but I write subtitles. What you do leads to discord (not social media) (like [here](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) and violates copyright (this time not mine & not yours, but authors' of videos). You tear out of context some video pieces (also bit carelessly) and you assign words to them, so many users don't understand, where did you hear that. Video, maybe, belongs to somebody, but subtitles don't, consider my license. This means that **I** will sue you for harassment to me. Moreover, I clearly said in first subtitles and in head of the file that my project is a **FORK** (only subtitle) from your project, not its full copy. I'd like to help you, on the contrary, but I see that I make it of no effect. Well, I'll help *myself.*
 
 Q: As, que tool meh?
 A: Japan, say jeu time!
 
 Q: What do these marks mean, like "WUT" or "Kill Me"?
-A: They mean necessity of correction\truncation\addition to text.
+A: They make correction\truncation\addition important to the text.
 
-Q: Thoroughly - is how?
-A: By pattern:
+Q: Thoroughly - is like?
+A: As:
  * Song:
  * Lang:
  * Words in prohibited language to original words' language ratio (optional):
