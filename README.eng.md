@@ -30,8 +30,8 @@ A: No. I use songs from Parent, and I, to make my Project fully independent, nee
 Q: Will you close the Project?
 A: ~~I would be glad to, but it holds me down. **Somebody hElP mE!!!11!11111!!!1**~~ No. The Project can't be closed. Foreign songs will keep appearing (WUT?) even after ~~the end of Zelenskyi's Presidentship term~~ my death.
 
-Q: We want to place ~~sum addzzzz~~ an advertisement block in your subtitles\constitution\progress. We advise you 1000$ monthly.
-A: My project, & then all above-listed are officially non-commercial (and I don't spy for proprietary). PPPL bans all terms of placing ads & receiving money by third parties. Github will furiously punish all for any opportunity to earn money on every project with open source code and\or public licences (GNU, PPPL, MIT etc).
+Q: We want to place ~~sum addzzzz~~ an advertisement block in your subtitles\constitution\progress. We offer you 1000$ monthly.
+A: My project, & then all above-listed are officially non-commercial (and I don't spy for proprietary). PPPL bans all terms of placing ads & receiving money by third parties. Github will furiously punish all violators for any opportunity to earn money on every project with open source code and\or public licences (GNU, PPPL, MIT etc).
 
 Q: Why won't you add English, Russian, Belarusian, Polish, & Ukrainian language songs to the project?
 A: ~~I'd like to, but some unknown mystic power holds me!!!111!!11~~ No! Unfortunately, I can't do this because of history & political correctness about `deez` languages (taunting).
@@ -72,7 +72,7 @@ Q: Hey you, close your project immediately, or I'll drag you to many courts for 
 A: Syjenduk (if it's you), comrade, I don't violate your copyright, since:
 I write subtitles' text by myself;
 My policy differs from yours (what eliminates all copyright infringement claims against me);
-I don't add English, Russian, Belarusian, Polish, and Ukrainian to the Project, because there are many ones, & of historical reasons (^);
+I don't add English, Russian, Belarusian, Polish, and Ukrainian to the Project, because of historical reasons (^);
 I don't compile videos with words, which you misheard, but I write subtitles;
 Subtitles, if considering my «Free» licence, belong to me, not to you;
 My Project is a **FORK** (only subtitle) from your project, not its full copy (I clearly said that in first subtitles and in the head of the file);
@@ -88,22 +88,30 @@ Q: As, que tool meh?
 A: Japan, say jeu time!
 
 Q: What do these marks mean, like "WUT" or "Kill Me"?
-A: They make correction\truncation\addition important to the text.
+A: Correction\truncation\addition is required.
 
 Q: How is it - Thoroughly?
 A: *As:
- * Song:
+*Note: round bracketed are (optional)*
+ * Song (Artist):
  * Lang:
- * Words in prohibited language to original words' language ratio (optional):
- * Probably misheard words (optional):
+ * (Words in prohibited language to original words' language ratio):
+ * (Probable misheard words (the more - the better):
  * Are you sure in your message and are sure that creator & encourager won't deny your request?: Y\n
- * Message (optional):
+ * (Message):
+#### Example:
+ * Song: Blue Bird - Ikimonogakari
+ * Lang: Japanese
+ * Words in prohibited language to original words' language ratio: N\A, 0%
+ * Probable misheard words: "Have a tan, and Tara..." (dismiss that, words should be in Ukrainian in any alphabet, but I'd prefer Cyrillic)
+ * Yes, I'm sure.
+ * If you'd do this - you're a madlad, & need much time for figuring out the song.
 
 Silent request - silent deny.
 
 Q: How do I know your project is authentic & genuine?
-A: It's in Ukrainian, so it makes difficult finding anything like that even in the Big Internet. Indeed, people developed "Misheards" before my & your birth, they even tried to copy texts of foreign language songs & translating them to their manner & language. But I, especially when nobody helps me, am a pioneer on Github, who does `d`at kind of stuff, not similar to "Poslyshalosj", where are 4 authors & who is on Youtube.
-With regard to genuinity - you've already seen that I borrow some of the ideas from Parent. Which are not - are mine.
+A: It's in Ukrainian, making difficult finding anything like that even in the Big Internet. Indeed, people developed "Misheards" before my & your birth, they even tried to copy texts of foreign language songs & translating them to their manner & language. But I, especially when nobody helps me, consider myself a pioneer on Github, who does `d`at kind of stuff, not like "Poslyshalosj", where are 4 authors & who are on Youtube.
+With regard to genuinity - you've already seen that I borrow some of the ideas from Parent. Which are not borrowings - are mine.
 
 Q: I understood all, but I still have questions, which are not related to project. Where can I ask?
 A: Pm me. It's a project page, not question one.
