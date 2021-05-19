@@ -92,7 +92,7 @@ A: Correction\truncation\addition is required.
 
 Q: How is it - Thoroughly?
 A: *As:
-*Note: round bracketed are (optional)*
+*Note: round-bracketed are (optional)*
  * Song (Artist):
  * Lang:
  * (Words in prohibited language to original words' language ratio):
@@ -103,14 +103,14 @@ A: *As:
  * Song: Blue Bird - Ikimonogakari
  * Lang: Japanese
  * Words in prohibited language to original words' language ratio: N\A, 0%
- * Probable misheard words: "Have a tan, and Tara..." (dismiss that, words should be in Ukrainian in any alphabet, but I'd prefer Cyrillic)
+ * Probable misheard words: "Have a tan, and Tara"; "Kana Jimin of made, oboe, ra reason" (dismiss that, words should be in Ukrainian in any alphabet, but I'd prefer Cyrillic)
  * Yes, I'm sure.
  * If you'd do this - you're a madlad, & need much time for figuring out the song.
 
 Silent request - silent deny.
 
 Q: How do I know your project is authentic & genuine?
-A: It's in Ukrainian, making difficult finding anything like that even in the Big Internet. Indeed, people developed "Misheards" before my & your birth, they even tried to copy texts of foreign language songs & translating them to their manner & language. But I, especially when nobody helps me, consider myself a pioneer on Github, who does `d`at kind of stuff, not like "Poslyshalosj", where are 4 authors & who are on Youtube.
+A: It's in Ukrainian, making difficult finding anything like one even in the Big Internet. Indeed, people developed "Misheards" even before my & your birth. Moreover, they tried to copy texts of foreign songs & translating them to their manner & language. But I, especially when nobody helps me, consider myself a pioneer on Github, writing subtitles to whole videos, who does `d`at kind of stuff, not like "Poslyshalosj", where are 4 authors, gluing pieces of different videos & who are on Youtube.
 With regard to genuinity - you've already seen that I borrow some of the ideas from Parent. Which are not borrowings - are mine.
 
 Q: I understood all, but I still have questions, which are not related to project. Where can I ask?
