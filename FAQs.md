@@ -15,11 +15,14 @@
 П: Чому ти не додаси англо-, російсько-, білорусько-, польсько-, та україномовні пісні до проєкту? <br>
 В: ~~Я хочу, але невідома містична сила тримає мене!!!111!!11~~ На жаль, ні. Я не можу це зробити з приводу історії та політкоректності щодо мов (глузування).
 
+П: А діалекти(зми)? <br>
+В: Діалекти мовами не є, тож треба порівнювати відповідно до мов, які заборонено (^) чи дозволено, у залежності від того, діалектом якої написано пісню. 
+
 П: З приводу яких подій ти не додаси ці пісні? <br>
 В: ~~Правителі країн, що використовують ці мови, цькуватимуть мене, тому й не можу.~~ Я ж сказав, історичних!
 
 П: Ну яких? <br>
-В: Пане\і користувач, припиніть питати! Історикознавці та\або місцеві (дійсно місцеві, а не "Понаєхалє") знають, під ким був Київ під час цих подій. Так, я орієнтуюсь на Київ, тому що це місце народження проєкту, а не думки. Думка могла народитись де завгодно. Але якщо ви не знаєте, то я вам розкажу хронологічно "яких" ↓
+В: Пане\і користувач, припиніть питати! Історикознавці та\або місцеві (дійсно місцеві, а не "Понаєхалє") знають, під ким був Київ під час цих подій. Так, я орієнтуюсь на Київ, тому що це місце народження проєкту. Але якщо ви не знаєте, то я вам розкажу хронологічно "яких" ↓
 
 # Історичні причини
 * 1363 - Київ відійшов до Литовського князівства;
@@ -39,12 +42,12 @@
 П: Я все розумію, але чому ти не забороняєш литовські та німецькі пісні? Ти ж сам сказав, що Київ був під Литвою та Німеччиною! <br>
 В: Тому що я не знаю литовську та погано знаю німецьку.
 
-П: Так це все через особисте ставлення до цих мов? <br>
+П: То це все через особисте ставлення до цих мов? <br>
 В: Ні, во ім'я Бога! Повірте мені, жодна людина в світі не знає жодної мови досконало. Так само і з піснями тими мовами, які я не додаю до проєкту. До речі, чи ви знаєте яку-небудь литовську пісню, крім гімну Литви? Або яку-небудь німецьку, крім пісень Рамштайну та гімну Німеччини?
 Якщо не знаєте, - то про що йде мова?
 
 П: Чому я бачу прозорі прямокутники у субтитрах? <br>
-В: Імовірно, це відбувається через те, що програвач не підтримує спец. символи (наприклад, емоджі, більш досконалі розділові знаки, іншомовні літери). Спробуйте оновити програвач або скористайтесь іншим. Якщо ви певні, що це вада з моєї сторони - ви можете скористатися вкладкою "Проблеми" та сповістити мене.
+В: Імовірно, це відбувається через те, що програвач не підтримує спец. символи (наприклад, емоджі, більш досконалі розділові знаки, іншомовні літери тощо). Спробуйте оновити програвач або скористайтесь іншим. Якщо ви певні, що це вада з моєї сторони - ви можете скористатися вкладкою "Проблеми" та сповістити мене.
 
 П: Я помітив\ла, що розмір\вирівнювання\щось іще шрифту з одних субтитрів відрізняється від оного у інших. Чи має це так бути і чому? <br>
 В: Ні, так бути не має. Так відбувається через те, що редактор субтитрів сам виставляє параметри тексту для кожних новостворених субтитрів. Або через використання різних редакторів. Я ревізую кожні субтитри, але деякі забобони можу не помітити. Сповістіть мене на вкладці "Проблеми", або, якщо маєте достатні знання .ass скриптів, виправте та клацніть на "Запит на додачу".
@@ -72,46 +75,21 @@
 П: Що означають незрозумілі позначки типу "ШЧА", або "Вбийте мене"? <br>
 В: Вони означають необхідність виправлення\видалення\додавання тексту. Або дійсно, щось незрозуміле і що потребує роз'яснення.
 
-П: Ґрунтовно - це як? <br>
-В: За формою:
-*Примітка: в круглих дугах (необов'язкове)*
-* Пісня (Виконавець):
-* Мова:
-* (Співвідношення слів забороненою мовою до слів вихідною мовою):
-* (Ймовірно неправильно почуті слова (Чим більше - тим ліпше)):
-* Ви впевнені у своєму повідомленні та певні, що творець та натхненник не відхилить ваш запит?: Т\н
-* (Повідомлення):
-#### Наприклад:
- * Пісня: Синій Птах - Ікімоноґакарі
- * Мова: Японська
- * Співвідношення слів забороненою мовою до слів вихідною мовою: Н\З, 0%
- * Ймовірно неправильно почуті слова: "Хапай-то і Тара"; "Кана ший мі, Аманда, обо Іра резон" (можна використовувати будь-яку іншу підтримувану абетку ↓)
- * Так, я певен\на.
- * Якщо ти це зробиш, що ж, ти не маєш куди гаяти свій час.
-
-Мовчазний запит - мовчазне відхилення.
-
-Q: Підтримувану абетку - це яку? <br>
-A: Поки що, я розпізнаю кирилицю, латинку, грецьку, катакану, та гіраґану. В експериментальному режимі підтримую піньїнь. В такому порядку. Будь-яку іншу абетку я ставлю останньою в порядку. Наприклад:
-
-`Доброго дня, як ся маєте?` дописане сьогодні <br>
-має вищий пріоритет за:
-`Δόμπρογο δνιά, ιάκ σιά μάιετε?`, дописане учора, <br>
-і ще вищий за:
-`得不漯河 悳尼亚，牙科 下 马也特？` дописане тиждень тому. Я оброблюю це в останню чергу, тому що це - поки непідтримувана абетка, і я оброблю це ЛИШЕ якщо маю достатньо часу та відсутність роботи. <br>
-Але:
-`Ґуд афтернун, гау ар ю?` <br>
-має нижчий пріоритет за:
-`どぶろほ　でにゃ、やく　しゃ　まいぇて？`, тому що перше написано англійською, але кирилицею (нульовий пріоритет, іде прямо на вилучення), а останнє - українською, написане гіраґаною (5-те у звичайній черзі).
+П: Гей ти, блядь, уйобка шмат! Ти чо, не розумієш, нахуй, що Ґітгаб - це платформа для розробників ПЗ, а не твоїх блядь йобаних субтитрів? Чому ти блядь не знайшов собі інший майданчик з такими ж пиздунами із субтитрами? <br>
+В: Так, звичайно! ~~Ось, будь ласка, візьміть воду, спирт, цукор, дріжджі... Летіти три години, самі собі зробите.~~ Коли я вивантажував файли на Ґіт*, то я погоджувався на те, що мої файли спільнота буде ревізувати, а саме: додавати, віднімати, перейменовувати, виправляти тощо. Але лише я або інша авторизована особа зможуть підтвердити ці зміни. Я усвідомлюю, що ця платформа не підтримує розробників субтитрів. Але й інших майданчиків з такими ж самими цілями, як і мої, я не знайшов. Якщо ви знаєте яку-небудь платформу, яка містить таких самих, як Ви висловилися, "Пиздунів", то я буду дуже радий мігрувати. Як ви вже побачили у ReadMe, зі мною можна зв'язатися через вкладку "Проблеми".
 
 П: Друже, ну чого ти ~~дої~~ причепився зі своїми абетками? Чому я не можу написати кирилицею? <br>
 В: Пане\і, де я сказав, що Ви не можете написати? Навпаки, я заохочую всіх писати кирилкою, але не всі хочуть\можуть. Інформацію про розпізнавання я написав саме для них.
 
 П: А якщо я все-таки волію написати неусталеною абеткою? <br>
-В: Якщо волієте написати латинкою - пишіть як завгодно (але когерентно, а саме: звук [й] може позначати лише одні буква чи буквосполучення на кшталт "j", "y", "i", "yi") та\або (через недосконалість транслітерації ДСТУ) вказуйте, яку систему використали. <br>
-Якщо волієте писати грецькою - тоді пам'ятайте, що на розкладці\у фонетичній системі присутні не всі букви\звуки, що властиві українській (букви "б", "ґ", "д" "и", та шиплячі). В такому випадку слід транслітерувати перші чотири як "μπ", "γκ", "ντ", "υ" (для [і] використовуйте "η", залишивши "ι" для [й]). "Ї" можна записати як "ϊ". Згідно з [цим](https://www.youtube.com/watch?v=dswd3rTpf7M) відео шиплячих не існує, а значить їх треба імітувати менш шиплячими звуками (наприклад, [ш] стає [с]). <br>
-А коли бажаєте писати гіраґаною чи катаканою - тут теж треба пам'ятати про відсутність звуків [и], [л], [х] (чи [г], якщо акад. транслітом послуговуєтесь), та сирих приголосних (крім [н]). "И" ми надамо значення "えぃ\エィ", "л" (сира) завжди йтиме через "る\ル" (виняток: "л", що йде одразу після "р", пишемо "ゔ"), "х\г" (сира) набуде кани "ほ\ホ", через те, що "ふ\フ" отримала звук [ф]. <br>
-Наприклад, слово "Горло" отримає транслітерацію "ほるを", "ホルヲ"
+В: Якщо волієте написати латинкою - пишіть як завгодно (але когерентно, а саме: звук [й] може позначати лише одні буква чи буквосполучення на кшталт "j", "y", "i", "yi") та\або (через недосконалість старої транслітерації ДСТУ (не 9112:2021)) вказуйте, яку систему використали. <br>
+Якщо волієте писати грецькою - тоді пам'ятайте, що на розкладці\у фонетичній системі присутні не всі букви\звуки, що властиві українській (букви "б", "ґ", "д" "и", та шиплячі). В такому випадку слід транслітерувати перші чотири як "μπ", "γκ", "ντ", "υ" (для [і] використовуйте "η", залишивши "ι" для [й]). "Ї" можна записати як "ϊ". Згідно з [цим](https://www.youtube.com/watch?v=dswd3rTpf7M) відео шиплячих не існує, а значить, їх треба імітувати менш шиплячими звуками (наприклад, [ш] стає [с]). <br>
+Коли бажаєте писати гіраґаною чи катаканою - тут теж треба пам'ятати про відсутність звуків [и], [л], [х] (чи [г], якщо акад. транслітом послуговуєтесь), та сирих приголосних (крім [н]). "И" ми надамо значення "えぃ\エィ", "л" (сира) завжди йтиме через "る\ル" (виняток: "л", що йде одразу після "р", пишемо "ゔ\ヴ"), "х\г" (сира) набуде кани "ほ\ホ", через те, що "ふ\フ" отримала звук [ф]. <br>
+Наприклад, слово "Горло" отримає транслітерацію "ほるを", "ホルヲ" <br>
+А коли маєте потяг до письма ганґилем - тут треба памʼятати про перетворення звуків у особливих випадках. Як от "ㅅ", що за звичайних умов читається як [с], але перед йотованими голосними та дифтонґами перетворюється на [ш'] (напівмʼяка "ш"), як тут "시 [ші]". Також, немає таких звуків, як [в], [ж], [з], [ф], [х], [ц], які можна призначити до "봐" (буквально "бу~а") "ㅈ" "ㅅ або ㅈ" (ㅅ перед нейотованими голосними, ㅈ перед йотованими голосними) "ㅍ" "읗흐" "ㅈ або ㅉ". З великим натягом можна назначити [и] до "으". За основу беру систему Концевича, адаптовану до української мови ("и" перетворюється в "і", а "ы" - в "и" тощо). <br>
+
+П: Хіба піньїнь не є просто латинкою з додатковими кроками? <br>
+В: Ніт. Латинка є спрощеною, тоді коли піньїнь не можна наСТІЛЬКИ спростити. Наприклад: ви не можете написати 'sho' піньїнем, але латинкою зможете. Ви маєте писати 'shao', 'shuo', чи 'shou' піньїнем. А також, звичайна латинка не використовує позначки тонів, але піньїнь це робить. Звідси, я підтримую нейтральні символи як у латиниці, але задля зворотної сумісності, використовуйте позначки тонів. Я підтримую обидва 1234 та " ̄", "´" "ˇ" "`".
 
 П: Слухай, ти замордував вже мене. Чи ти постачаєш свої системи транслітерації? <br>
 В: На жаль, поки ні. Перепрошую.
@@ -140,6 +118,9 @@ A: My project, & then all above-listed are officially non-commercial (and I don'
 Q: Why won't you add English, Russian, Belarusian, Polish, & Ukrainian language songs to the project? <br>
 A: ~~I'd like to, but some unknown mystic power holds me!!!111!!11~~ No! Unfortunately, I can't do this because of history & political correctness about `deez` languages (taunting).
 
+Q: What about dialect(ism)s? <br>
+A: Dialects are not languages, so you'll have to compare to languages, that are allowed or not (^), depending on what language is the song written in.
+
 Q: What events won't let you add `deez` songs? <br>
 A: ~~Governors of countries, which use these languages will bully me, that's why.~~ I said, historical!
 
@@ -165,14 +146,14 @@ Q: I understand, but why won't you ban Lithuanian & German songs? You said that 
 A: Cuz I don't know Lithuanian & badly know German.
 
 Q: Is it all because of personal attitude to languages? <br>
-A: No, for God's sake! Believe me, no human in the world could know any language very good. It's the same about those languages, which I don't add to the project. By the way, do you know any Lithuanian song, except anthem of Lithuania? Or some German song, except any Rammstein song and anthem of Germany?
+A: No, for God's sake! Believe me, no human in the world could perfect any language. The same goes about those languages, which I don't add to the project. By the way, do you know any Lithuanian song, except anthem of Lithuania? Or some German song, except any Rammstein song and anthem of Germany?
 If you don't - what are we talking about?
 
-Q: Why do I see transparent rectangles in the subtitles? <br>
-A: Perhaps it's happening because of player not supporting special symbols (e.g. emojis, more enhanced punctuation marks, foreign letters). Try to update it or try another one. If you are sure that it's my mistake - you can use the "Issues" tab to contact me.
+Q: Why am I seeing transparent rectangles in the subtitles? <br>
+A: Perhaps it's happening because of player not supporting special symbols (e.g. emojis, more enhanced punctuation marks, foreign letters). Try to update it or try another one. If you are sure it's my mistake - you can use the "Issues" tab to contact me.
 
 Q: I've noticed size\alignment\other differences when surfing from one subtitle to another. Is it natural and why? <br>
-A: No, it's not. It's because of subtitle editor setting text parameters by itself for every newmade subtitles. Or it's because of using different editors. I revise every subtitles, but some of the errors I can miss. Contact me on "Issues" tab or if you have just enough knowledge in .ass files - modify & send a Pull Request.
+A: No, it's not. It's because of subtitle editor setting text parameters by itself for every newmade subtitles. Or it's because of using different editors. I revise every subtitles, but some of the errors I can miss. Contact me on "Issues" tab or if you have just enough knowledge of .ass scripts - modify & send a Pull Request.
 
 Q: Yu f0skhic$tisk p1g, stuuup bulen dizzszsszzs l0nguajez!!!111!!!11111!!11!!!!!!!!1!11 <br>
 A: $Username, stop immediately and go to school, 'cause it's too early for you to sit on the net for this age!
@@ -187,8 +168,8 @@ Subtitles, if considering my «Free» licence, belong to me, not to you; <br>
 My Project is a **FORK** (only subtitle) from your project, not its full copy (I clearly said that in first subtitles and in the head of the file); <br>
 & actually, I want to help you, but I see that it's of no use. <br>
 But: <br>
-What do you do through your videos leads to discord (not [Discord App](https://discord.gg)) (like [here](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) and infringes copyright (this time not mine & not yours, but authors' of videos); <br>
-You tear out of context some video pieces (also bit carelessly) and assign words to them, so many users don't understand, where did you hear that; <br>
+What do you do through your videos leads to discord (not [Discord App](https://discord.gg)) (like [here](https://www.youtube.com/watch?v=pXb8yNrDQDY&lc=UgjvyN6xzgZPHHgCoAEC)) and infringes copyright (this time not mine & yours, but authors' of videos); <br>
+You tear out of context some video pieces (also a bit carelessly) and assign words to them, so many users don't understand, where did you hear that; <br>
 If you're going to call me to the court - obey local laws. But pls note that **I** can drag you to courts too for harassing me.
 
 Since I've noticed it's of no use, I'll help *myself.*
@@ -199,37 +180,8 @@ A: Japan, say jeu time!
 Q: What do marks like "WUT" or "Kill Me" mean? <br>
 A: Correction\truncation\addition is required. Or it's what requires clarification.
 
-Q: How is it - Thoroughly? <br>
-A: *As:
-*Note: round-bracketed are (optional)*
- * Song (Artist):
- * Lang:
- * (Words in prohibited language to original words' language ratio):
- * (Probable misheard words (the more - the better):
- * Are you sure in your message and are sure that creator & encourager won't deny your request?: Y\n
- * (Message):
-#### Example:
- * Song: Blue Bird - Ikimonogakari
- * Lang: Japanese
- * Words in prohibited language to original words' language ratio: N\A, 0%
- * Probable misheard words: "Have a tan, and Tara"; "Kana Jimin of made, oboe, ra reason" (dismiss that, words should be in Ukrainian in understandable alphabet ↓)
- * Yes, I'm sure.
- * If you'd do this - you're a madlad, & need much time for figuring out the song.
-
-Silent request - silent deny.
-
-Q: Understandable alphabet - is which? <br>
-A: I recognise Cyrillic, Latin, Greek, Katakana, and Hiragana. Experimentally support pinyin. This is the order of priority. Any other alphabet is prioritised last by default. For example:
-
-`Доброго дня, як ся маєте? (Good afternoon, how are you?)` posted today <br>
-has higher priority than:
-`Δόμπρογο δνιά, ιάκ σιά μάιετε?`, posted yesterday, <br>
-and even higher than:
-`得不漯河 悳尼亚，牙科 下 马也特？` posted a week ago. This will be processed last, because I will parse it ONLY if I have a decent amount of time and\or no work). <br>
-But:
-`Ґуд афтернун, гау ар ю?` <br>
-is outprioritised to:
-`どぶろほ　でにゃ、やく　しゃ　まいぇて？`, because the first is in English, written in Cyrillic (zero priority, is into delet), and the latter is in Ukrainian, written in Hiragana (5th in normal queue).
+Q: Hey you, fuckin dumbass! Don't you fucking understand that the Github is the platform for software developers, not for your fucking goddamn subtitles?! Why wouldn't you find some another playground with the same subtitle shitheads as you? <br>
+A: Yes, sure thing! ~~Here you are, have water, alcohol, sugar, yeast... We'll be flying for three hours, you could make it by yourself.~~ When I was uploading files to Git*, I agreed that my files will be community-revised, i.e.: added, truncated, renamed, corrected etc. But only me or another authorised person would confirm these changes. I am aware of platform not supporting subtitle writers. But I didn't find any other like platforms with same aims as mine. But if you know that kind of a ground, what contains the same, as you said, "Shitheads", then I'd be looking forward to migration. As you've already seen in ReadMe(.eng), you can contact me through the "Issues" tab.
 
 Q: My friend, why did you stick to me with your alphabets? Can't I just write in Cyrillic? <br>
 A: Mr\Ms, where did I say you can't? I encourage everybody to write in Cyrillic, but not everybody wants\can. I wrote "recognition info" specifically for them.
@@ -239,13 +191,17 @@ A: If you wish to write in Latin - write how do you want (but coherently, like: 
 If you are better at writing in Greek - then remember that not all Ukrainian-specific letters are present on the layout (letters "б" (b), "ґ" (g), "д" (d), "и" (y, like in "myth" but harder), and hushing). In that case it's required to transliterate the four first letters as "μπ", "γκ", "ντ", "υ" (for [i] please use "η", leaving "ι" for "й"). "Ї" (ji) you can write as "ϊ". According to [this](https://www.youtube.com/watch?v=dswd3rTpf7M) video there are no hushings in greek, so you'll have to simulate them using less hushing sounds (i.e. [sh] becomes [s]) <br>
 But when you're the most tailored towards writing using Hiragana or Katakana - then you too need to remember about missing [и] (y↑), [l], [kh] (or [h], if using acad. transliteration) sounds, and raw consonants (except [n]). "И" (y↑) we'll give the value of "えぃ\エィ", "l" (raw) will always go through "る\ル" (exception: "l" going right after "r", we write as "ゔ"), "kh\h" (raw) will become "ほ\ホ", because of "ふ\フ" representing the [f] sound. <br>
 For example, word "Горло" (Horlo, Throat) becomes "ほるを", "ホルヲ"
+If you are more attracted to writing in Hangeul - you should remember about converting sounds in some special cases. Like a "ㅅ", which is normally read [s], but before vowels and diphtongs it's read [sh], as in here "시 [shi]". Also, there's no sounds like [v], [zh], [z], [f], [kh], [c], which you can assign to "봐" (literally "bw~a") "ㅈ" "ㅅ or ㅈ" (ㅅ before non-iotated vowels, ㅈ before iotated vowels) "ㅍ" "읗흐" "ㅈ або ㅉ". You can barely assign the [и] (y↑) to "으". I take the Koncevich system as a starting point, adapted to Ukrainian ("и" (i) turns to "і" (i), and "ы" (y↑) - into "и" (y↑) etc). <br>
+
+Q: Isn't pinyin just latin with extra steps? <br>
+A: Nope. Latin is simplified, while pinyin can't be THAT simplified. For example: you can't write 'sho' using pinyin, but you can using latin. In pinyin, you must write 'shao', 'shuo', or 'shou'. Also, standard latin doesn't use tone marks, but pinyin does. So, I do support neutral characters as in latin, but for backwards compatibility, you shall use tone marks. I support both 1234 and " ̄", "´" "ˇ" "`".
 
 Q: Listen, I've had enough of your tortures. Do you provide your own transliteration systems? <br>
 A: Not at the time. Excuse me.
 
 Q: How do I know your project is authentic & genuine? <br>
-A: It's in Ukrainian, making difficult finding anything like one even in the Big Internet. Indeed, people developed "Misheards" even before my & your birth. Moreover, they tried to copy texts of foreign songs & translating them to their manner & language. But I, especially when nobody helps me, consider myself a pioneer on Github, writing subtitles to whole videos, who does `d`at kind of stuff, not like "Poslyshalosj", where are 4 authors, gluing pieces of different videos & who are on Youtube. <br>
-With regard to genuinity - you've already seen that I borrow some of the ideas from Parent. Which are not borrowings - are mine.
+A: It's in Ukrainian, making difficult finding anything like one even in the Big Internet. Indeed, people developed "Misheards" even before my & your birth. Moreover, they tried to copy texts of foreign songs & translating them to their manner & language. But I, especially when nobody helps me, consider myself a pioneer on Github, writing subtitles to whole videos, who does `d`at kind of stuff, unlike "Poslyshalosj", where are 4 authors, gluing pieces of different videos & who are on Youtube. <br>
+With regard to genuinity - you've already seen that I borrow some of the ideas from the Parent. Which are not borrowings - are mine.
 
-Q: I understood all, but I still have questions, which are (not) related to project. Where can I ask? <br>
+Q: I understood all, but I still have questions, which are (not) related to project, but not covered here. Where can I ask? <br>
 A: Pm me. It's a project page, not question one.
